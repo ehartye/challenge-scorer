@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "challengescore23",
-    "slug": "challengescore23",
+    "name": "challenge-scorer",
+    "slug": "challenge-scorer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
